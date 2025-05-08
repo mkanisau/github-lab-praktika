@@ -1,4 +1,5 @@
 # github-lab-praktika
 mokymams devops
 Šią eilutę pridėjau iš šakos "feature/teksto-pakeitimas"
-antras commit testas
+sitas pakeitimas turi sukelti konflikta
+antras commit testas kuris resolvina konflikta
